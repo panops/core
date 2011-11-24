@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    panops-core (0.0.1alpha)
+    panops-core (0.0.1alpha1)
 
 GEM
   remote: http://rubygems.org/
